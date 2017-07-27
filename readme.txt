@@ -4,3 +4,6 @@ Git has a mutable index called stage.
 git tracks changes
 git dev test. and tttt
 merge with no ff
+dfakhsdfkl
+sahdfjka
+shkdlf
